@@ -11,7 +11,7 @@ To contact me about possible career opportunities, something you want to collabo
 ### Python
 Python is an incredible, flexible, and accessible language. If you want to do something, chances are you can do it in Python. While I am proficient in other languages my expertise and my tool of choice is python.
 
-### Building Websites
+### Web Development
 
 Building websites is how I got introduced to coding. They are great starting point when learning to code. I have extensive experience with Django but I am familiar with other web frameworks such as Flask and FastAPI. I have built multiple websites as the Webmaster of the Skagit Alpine Club including our course registration site which processed over $10,000 worth of payments. All my code for websites that I build for the Skagit Alpine Club are open source and can be found on my GitHub. The source code for the course registration site can be found [here](https://github.com/raymond-devries/skagit-bmc-registration).
 
