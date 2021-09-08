@@ -13,7 +13,7 @@ Python is an incredible, flexible, and accessible language. If you want to do so
 
 ### Web Development
 
-Building websites is how I got introduced to coding. They are great starting point when learning to code. I have extensive experience with Django but I am familiar with other web frameworks such as Flask and FastAPI. I have built multiple websites as the Webmaster of the Skagit Alpine Club including our course registration site which processed over $10,000 worth of payments. All my code for websites that I build for the Skagit Alpine Club are open source and can be found on my GitHub. The source code for the course registration site can be found [here](https://github.com/raymond-devries/skagit-bmc-registration).
+Building websites is how I got introduced to coding. They are great starting point when learning to code. I have extensive experience with Django and I have used other web frameworks such as Flask and FastAPI. I have built multiple websites as the Webmaster of the Skagit Alpine Club including our course registration site which processed over $10,000 worth of payments. All my code for websites that I build for the Skagit Alpine Club are open source and can be found on my GitHub. The source code for the course registration site can be found [here](https://github.com/raymond-devries/skagit-bmc-registration).
 
 ### GIS and Maps
 
