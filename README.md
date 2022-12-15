@@ -4,7 +4,7 @@ Welcome to my GitHub page. My name is Raymond DeVries, and I am a software engin
 
 ### Contact 
 
-To contact me about possible career opportunities, something you want to collaborate on, your latest mountain adventure, or just to say hi email me at [contact@raymond-devries.com](mailto:contact@raymond-devries.com). Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/raymond-devries/) as well.
+To contact me about possible career opportunities, something you want to collaborate on, your latest mountain adventure, or just to say hi feel free to connect with me on [Linkedin](https://www.linkedin.com/in/raymond-devries/).
 
 ## Here are few interesting things I enjoy:
 
