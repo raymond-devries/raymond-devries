@@ -1,6 +1,6 @@
 ## About Me
 
-Welcome to my GitHub page. My name is Raymond DeVries, and I am a Senior Software Engineer/Team Lead at Routable. I have degrees in computer science and neuroscience. 
+Welcome to my GitHub page. My name is Raymond DeVries, and I am a Senior Software Engineer at Reach Security. I have degrees in computer science and neuroscience. 
 
 ### Contact 
 
@@ -8,11 +8,15 @@ To contact me about possible career opportunities, something you want to collabo
 
 ## Here are few interesting things I enjoy:
 * Python
+* Full Stack
+* Web UX
+* Svelte
+* React
 * Distributed systems
 * Django
+* Fast API
 * Third Party Integrations
 * Scalability
-* Rust
 
 ### Getting Outside
 
